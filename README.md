@@ -1,0 +1,2 @@
+# EmojiSearch
+Emoji search implementation.
